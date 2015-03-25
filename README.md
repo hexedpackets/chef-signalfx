@@ -56,7 +56,7 @@ Chef cookbook for mangaging the SignalFX metricproxy.
   <tr>
     <td><tt>[:signalfx][:config][:stats_delay]</tt></td>
     <td>String</td>
-    <td>/td>
+    <td>How often to report local stats to signalfx.</td>
     <td><tt>1s</tt></td>
   </tr>
   <tr>
