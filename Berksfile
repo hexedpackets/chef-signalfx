@@ -4,5 +4,5 @@ source 'https://api.berkshelf.com' if Gem::Version.new(Berkshelf::VERSION) > Gem
 
 metadata
 
-cookbook 'golang', '~> 1.4'
+cookbook 'golang', '>= 1.4'
 cookbook 'git'
